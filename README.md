@@ -12,7 +12,6 @@
 4. Responsive Web Design (RWD)
     2. Grids
     3. Media Queries
-    1. Fluid Images
 5. Responsive media
     1. Images
     2. Typography
