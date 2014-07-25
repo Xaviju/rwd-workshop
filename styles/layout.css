@@ -1,0 +1,45 @@
+.fixed {
+    width: 960px;
+    margin: auto auto;
+    height: 500px;
+    background: #cc0000;
+}
+
+.fluid {
+    width: 50%;
+    margin: auto auto;
+    height: 50%;
+    background: #cc0000;
+}
+
+.fluid-wrapper {
+    width: 50%;
+    margin: auto auto;
+    height: 50%;
+    background: #cc0000;
+    padding: 5px;
+}
+
+.hybrid-wrapper {
+    width: 50%;
+    margin: auto auto;
+    height: 50%;
+    background: #cc0000;
+    padding: 5px;
+    max-width: 500px;
+}
+
+.fluid-2 {
+    width: 50%;
+    height: 50%;
+}
+
+.fluid-left {
+    background: #000;
+    float: left;
+}
+
+.fluid-right {
+    background: #fff;
+    float: left;
+}
