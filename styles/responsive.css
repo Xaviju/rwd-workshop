@@ -1,0 +1,42 @@
+.responsive {
+    width: 66%;
+    height: 66%;
+    background: #cc0000;
+    margin: 0 auto;
+}
+
+.responsive-wrapper {
+    width: 100%;
+    background: #000;
+    margin: 0 auto;
+}
+
+.responsive-wrapper a {
+    width: 25%;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+    display: block;
+    float: left;
+}
+
+@media only screen and (min-width: 800px) {
+    .responsive {
+        background: #669933;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .responsive {
+        background: #0000ff;
+    }
+    .responsive-wrapper a {
+        width: 100%;
+        padding: 10px 0;
+        text-align: center;
+        color: #000;
+        background: #00FF00;
+        display: block;
+        float: none;
+    }
+}
