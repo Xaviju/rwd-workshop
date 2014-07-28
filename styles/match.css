@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+}
+
+.match-wrapper {
+    width: 100%;
+    max-width: 960px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+
+.match-wrapper img {
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
