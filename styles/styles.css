@@ -1,0 +1,45 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+    font-size: 16px;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.menu {
+    width: 100%;
+}
+
+.menu a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: .5rem 0;
+    background: #000;
+}
+
+.menu a:hover {
+    background: #cc0000;
+}
+
+h1 {
+    font-size: 3rem;
+    padding: 0 1rem;
+}
+
+.image-wrapper {
+    width: 100%;
+}
+
+.image-wrapper img {
+    width: 100%;
+}
+
+p {
+    padding: 0 1rem;
+}
