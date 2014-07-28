@@ -1,7 +1,9 @@
 ## Responsive Workshop - Kaleidos
 
 - Level: **Begginer**
+- What should I bring **Computer, browser, text editor**
 - Recommended Knowledge **Basic CSS, HTML and JS**
+- Recommended extra-knowledge **git**
 
 ###Slides
 [https://docs.google.com/a/kaleidos.net/presentation/d/16ztoZEw3m5p0uAsCk8-n5dOFF2v08adcuuQb0AWJFDc/edit?usp=sharing]
