@@ -1,0 +1,29 @@
+.media-wrapper {
+    width: 100%;
+    max-width: 960px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+
+.media-wrapper img{
+    width: 100%;
+}
+
+/*root font size*/
+html{
+    font-size: 26px;
+    font-family: 'Arial';
+}
+
+/*parent font size*/
+div{
+    font-size: 2em;
+}
+
+.rem-text{
+    font-size: 1rem;
+}
+
+.em-text{
+    font-size: 1em;
+}
