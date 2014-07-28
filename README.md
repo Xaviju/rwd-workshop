@@ -3,6 +3,9 @@
 - Level: **Begginer**
 - Recommended Knowledge **Basic CSS, HTML and JS**
 
+###Slides
+[https://docs.google.com/a/kaleidos.net/presentation/d/16ztoZEw3m5p0uAsCk8-n5dOFF2v08adcuuQb0AWJFDc/edit?usp=sharing]
+
 ### Contents of the Workshop
 1. RWD definition
 2. Pre RWD
