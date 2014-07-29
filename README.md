@@ -23,5 +23,7 @@
 6. Javascript Responsive
     1. JS Media Queries (window.matchMedia)
     2. Load content dynamically
+7. Debug from phone
+    1. Final project
 
 *Every section will require an exercise*
